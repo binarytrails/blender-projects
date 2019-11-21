@@ -1,0 +1,2 @@
+andy: uvs, texturing + nodes
+seva: modelling, lighting + animation
