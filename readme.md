@@ -8,12 +8,11 @@
 
 ## [binarytrails.net/nx](https://www.binarytrails.net/nx)
 
-# kamai
-![](kamai/renders/3dscan.jpg)
-![](kamai/renders/ss.png)
-![](kamai/renders/0001.png)
-![](kamai/renders/0150.png)
-![](kamai/renders/3dprint.jpg)
+# khamaí
+![](khamaí/renders/3dscan.jpg)
+![](khamaí/renders/0150.png)
+
+## [binarytrails.net/khamaí](https://www.binarytrails.net/khama)
 
 # motorbike
 ![](motorbike/renders/ss3.png)
